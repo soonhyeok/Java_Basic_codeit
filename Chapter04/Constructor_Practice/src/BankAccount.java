@@ -2,23 +2,39 @@ public class BankAccount {
     private int balance;
     private Person owner;
 
-    public void setBalance(int newBalance) {
-        balance = newBalance;
+    public void setBalance(int pBalance) {
+        balance = pBalance;
     }
 
     public int getBalance() {
         return balance;
     }
 
-    public void setOwner(Person newOwner) {
-        owner = newOwner;
+    public void setOwner(Person pOwner) {
+        owner = pOwner;
     }
 
     public Person getOwner() {
         return owner;
     }
 
+    public BankAccount(int pBalance) {
+        if (pBalance < 0) {
+            balance = 0;
+        } else {
+            balance = pBalance;
+        }
+    }
 
+    public BankAccount(Person pOwner) {
+        owner = pOwner;
+        balance = 0;
+    }
+
+    public BankAccount(int pBalance, Person pOwner) {
+        owner = pOwner;
+        balance = pBalance;
+    }
 
     // 파라미터 : 입금할 액수 (정수)
     // 리턴 : 성공여부 (불린)
@@ -83,4 +99,3 @@ public class BankAccount {
         return transfer(to.getAccount(), amount);
     }
 }
-

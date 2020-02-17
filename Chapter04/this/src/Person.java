@@ -4,37 +4,54 @@ public class Person {
     private int cashAmount;
     private BankAccount account;
 
-    public void setAge(int newAge) {
-            age = newAge;
+    public Person(String pName, int pAge, int pCashAmount) {
+        name = pName;
+        if (pAge < 0) {
+            age = 12;
+        } else {
+            age = pAge;
+        }
+        cashAmount = pCashAmount;
     }
 
-    public int getAge() {
-        return age;
-    }
-
-    public void setName(String newName) {
-        name = newName;
+    public Person(String name, int age) {
+        this.name = name;
+        this.age = age;
+        cashAmount = 0;
     }
 
     public String getName() {
         return name;
     }
 
-    public void setCashAmount(int newCashAmount) {
-            cashAmount = newCashAmount;
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
     }
 
     public int getCashAmount() {
         return cashAmount;
     }
 
-    public void setAccount(BankAccount newAccount) {
-        account = newAccount;
+    public void setCashAmount(int cashAmount) {
+        this.cashAmount = cashAmount;
     }
 
     public BankAccount getAccount() {
         return account;
     }
+
+    public void setAccount(BankAccount account) {
+        this.account = account;
+    }
+
 
     // 첫 번째 파라미터: 받는 사람 (Person)
     // 두 번째 파라미터: 이체할 금액 (정수)
@@ -49,5 +66,6 @@ public class Person {
     public boolean transfer(BankAccount to, int amount) {
         return account.transfer(to, amount);
     }
+
 
 }
