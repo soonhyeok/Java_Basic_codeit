@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0c08558-5df8-4c2a-b4b5-229a252d660a" name="Default Changelist" comment="" />
+    <list default="true" id="f0c08558-5df8-4c2a-b4b5-229a252d660a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/09_Exception_Handling/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/09_Exception_Handling/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/09_Exception_Handling/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/09_Exception_Handling/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/09_Exception_Handling/09_Exception_Handling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/09_Exception_Handling/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/12_Unit_Converter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/src/UnitConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/Chapter06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter06/src/MarketGood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +33,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1XvUrdQdoL98wpikebGGIZO5sFJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -51,6 +75,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1180" y="281" key="FileChooserDialogImpl" timestamp="1582079971828">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1180" y="281" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1582079971828" />
     <state width="1860" height="337" key="GridCell.Tab.0.bottom" timestamp="1581930584788">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -67,5 +95,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1860" height="337" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1581930584788" />
+    <state x="-1268" y="436" key="com.intellij.ide.util.TipDialog" timestamp="1582079833801">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1268" y="436" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1582079833801" />
+    <state x="652" y="420" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1080@0.0.1920.1040" timestamp="1581993797033" />
+    <state x="-1581" y="150" key="new project wizard" timestamp="1582079972764">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1581" y="150" key="new project wizard/0.0.1920.1040/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1582079972764" />
   </component>
 </project>
