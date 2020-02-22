@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0c08558-5df8-4c2a-b4b5-229a252d660a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/09_Exception_Handling/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/09_Exception_Handling/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/09_Exception_Handling/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/09_Exception_Handling/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/09_Exception_Handling/09_Exception_Handling.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/09_Exception_Handling/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/12_Unit_Converter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/src/UnitConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/Chapter06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter06/src/MarketGood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/src/UnitConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter06/12_Unit_Converter/src/UnitConverter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

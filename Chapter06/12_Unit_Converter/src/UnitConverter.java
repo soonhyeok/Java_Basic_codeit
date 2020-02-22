@@ -3,7 +3,7 @@ public class UnitConverter {
     private UnitConverter() {
         // 인스턴스 생성 불가
     }
-    
+
     public static final double KILOGRAMS_PER_POUND = 0.45359237;
     public static final double POUNDS_PER_KILOGRAM = 1 / KILOGRAMS_PER_POUND;
     public static final double CENTIMETERS_PER_INCH = 2.54;
