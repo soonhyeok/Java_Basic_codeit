@@ -16,6 +16,7 @@ public class Course {
         switch (grade) {
             case "A+":
                 return 4.5;
+                //break
 
             case "A":
                 return 4.0;
@@ -37,10 +38,8 @@ public class Course {
 
             case "D":
                 return 1.0;
-
-            default:
-                return 0.0; // F일 경우
-        }
+                
+        } return 0.0; // F일 경우
     }
 
     public double getCredit() {
